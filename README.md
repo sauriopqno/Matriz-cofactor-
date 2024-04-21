@@ -1,0 +1,2 @@
+funciona eliminando siempre eliminando la primera columna de una matriz, luego crea cada matriz eliminando una fila empezando por la primera de arriva hacía abajo, de esta manera se pueden generar matrices de cualquier dimensión, también se agrega el determinante con numpy.linalg.det y se multiplica por el numero perteneciente de la matriz de orden mayor siguiendo el procedimiento para resolverla por cofactores.
+si encuentras cualquier falla o formas de mejorarla eres 100% libre de hacerlo :)
